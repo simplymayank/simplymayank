@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Mayank 
+I'm currently pursuing BS degree in Data Science, intrested in Machine Learning and Open source development.
 
-<!--
-**simplymayank/simplymayank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently Learning
+Python for Data Science and Machine Learning
 
-Here are some ideas to get you started:
+R programming and package development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Structures and Algorithms
+
+Statistics and Data Analysis
+
+### Technologies & Tools
+
+Languages: Python, R
+
+Data Analysis(in python) : Numpy,Pandas,Matplotlib,Seaborn
+
+Data Analysis(in R) : Dplyr,Tidyr,lubridate,data.table
+
+Package-Development : usethis,devtools,testthat
+
+Tools: Git, GitHub
+
+### Current Focus
+
+Building practical Data Science projects
+
+Improving Python and R programming
+
+Exploring open-source contributions
+
+### Goals
+
+Contribute to open-source projects
+
+Develop practical Machine Learning projects
